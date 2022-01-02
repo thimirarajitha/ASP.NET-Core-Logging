@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET-Core-Default-Logging", "ASP.NET-Core-Default-Logging\ASP.NET-Core-Default-Logging.csproj", "{58642CF9-3313-4DA4-90CE-2AE63F92E218}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58642CF9-3313-4DA4-90CE-2AE63F92E218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58642CF9-3313-4DA4-90CE-2AE63F92E218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58642CF9-3313-4DA4-90CE-2AE63F92E218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58642CF9-3313-4DA4-90CE-2AE63F92E218}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFCC1E99-2075-4613-B4AF-AFD21CC1C56F}
+	EndGlobalSection
+EndGlobal
